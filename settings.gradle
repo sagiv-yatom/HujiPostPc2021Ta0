@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Huji-PostPc-2021-Ta0"
